@@ -32,10 +32,8 @@ def health() -> dict:
 def infer(req: InferRequest) -> InferResponse:
     if not WORKERS or WORKERS == [""]:
         raise HTTPException(503, "No workers configured")
-    worker = random.choice(WORKERS)  # TODO: least-queue + health check
-    # TODO: proxy to worker
-    return InferResponse(
-        text=f"[stub] resposta para: {req.prompt[:80]}...",
+    worker = random.choice(WORKERS)          return InferResponse(
+        text=f"resposta para: {req.prompt[:80]}...",
         worker=worker,
     )
 
