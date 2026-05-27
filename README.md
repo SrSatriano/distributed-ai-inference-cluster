@@ -2,14 +2,18 @@
 
 # Gerenciador de cluster de inferência de IA
 
-**Gerenciador de cluster de inferência de IA distribuída**
+
+<p><strong>Gerenciador de cluster de inferência de IA distribuída</strong></p>
 
 <p>
   <a href="https://github.com/SrSatriano/distributed-ai-inference-cluster"><img src="https://img.shields.io/badge/GitHub-distributed-ai-inference-cluster-24292e?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://srsatriano.github.io/portfolio-matheus-satriano/"><img src="https://img.shields.io/badge/Portfólio-web-0891b2?style=for-the-badge" alt="Portfólio" /></a>
 </p>
 
 <p>
   <img src="https://img.shields.io/badge/versão-1.0.0-0ea5e9?style=flat-square" alt="versão" />
+  <img src="https://img.shields.io/badge/Tier-2-8b5cf6?style=flat-square" alt="tier" />
+  <img src="https://img.shields.io/badge/demo-em_evolutivo-f59e0b?style=flat-square" alt="demo" />
   <img src="https://img.shields.io/badge/licença-MIT-22c55e?style=flat-square" alt="licença" />
   <img src="https://img.shields.io/badge/idioma-pt--BR-blue?style=flat-square" alt="idioma" />
   <img src="https://img.shields.io/badge/CI-GitHub_Actions-8b5cf6?style=flat-square" alt="ci" />
@@ -182,4 +186,8 @@ Metodologia, hardware de referência e flags de compilação: [docs/ARCHITECTURE
 
 ---
 
-<p align="center">Desenvolvido com foco em clareza e engenharia de produção · <a href="https://github.com/SrSatriano/distributed-ai-inference-cluster">Ver no GitHub</a></p>
+<p align="center">
+  <a href="https://srsatriano.github.io/portfolio-matheus-satriano/">Portfólio completo</a> ·
+  <a href="https://github.com/SrSatriano">@SrSatriano</a> ·
+  <a href="https://github.com/SrSatriano/distributed-ai-inference-cluster">Este repositório</a>
+</p>
